@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    font-family: system-ui;
+    font-size: 33px;
+    color: darkred;
+}
+legend{
+    text-align: center;
+    font-family: system-ui;
+    font-size: 33px;
+    text-decoration-color: red;
+}
+
+.forms{
+    text-align: center;
+    font-family: system-ui;
+}
